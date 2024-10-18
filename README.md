@@ -28,7 +28,3 @@ Chart.js (optional, for data visualization)
 
 ExternalAPI:-  OpenWeatherMap API for fetching real-time weather data.
 
-Evaluate and set environment url
-      1 .   Evaluated environment url: https://aradhya-p-b.github.io/weather-forecasting/
-      2  .   Cleaning up orphan processes
-
